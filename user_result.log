@@ -1,55 +1,108 @@
-Name: CCTV-1综合, URL: http://1.195.111.251:11190/tsfile/live/0001_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 2266ms
-Name: CCTV-5体育, URL: http://222.240.82.92:9901/tsfile/live/0005_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 573ms
-Name: CCTV-6电影, URL: http://222.240.82.92:9901/tsfile/live/0006_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 589ms
-Name: CCTV-9纪录, URL: http://222.240.82.92:9901/tsfile/live/0009_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 562ms
-Name: CCTV-12社会与法, URL: http://1.195.111.251:11190/tsfile/live/0012_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 589ms
-Name: CCTV-14少儿, URL: http://222.240.82.92:9901/tsfile/live/0014_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 606ms
-Name: 中国天气, URL: http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8, Date: None, Resolution: None, Response Time: 1021ms
-Name: CGTN俄语, URL: https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd, Date: 04-03-2023, Resolution: None, Response Time: 1064ms
-Name: CGTN俄语, URL: http://liveru.cgtn.com/1000r/prog_index.m3u8, Date: 08-15-2023, Resolution: None, Response Time: 1070ms
-Name: CGTN俄语, URL: https://liveru.cgtn.com/1000r/prog_index.m3u8, Date: None, Resolution: None, Response Time: 1227ms
-Name: CGTN西语, URL: https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8, Date: 03-21-2023, Resolution: None, Response Time: 329ms
-Name: CGTN西语, URL: http://livees.cgtn.com/1000e/prog_index.m3u8, Date: 08-15-2023, Resolution: None, Response Time: 1102ms
-Name: CGTN西语, URL: https://livees.cgtn.com/1000e/prog_index.m3u8, Date: None, Resolution: None, Response Time: 1111ms
-Name: CGTN西语, URL: https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd, Date: 04-03-2023, Resolution: None, Response Time: 1112ms
-Name: CGTN阿语, URL: http://livear.cgtn.com/1000a/prog_index.m3u8, Date: 08-15-2023, Resolution: None, Response Time: 740ms
-Name: CGTN阿语, URL: https://livear.cgtn.com/1000a/prog_index.m3u8, Date: None, Resolution: None, Response Time: 747ms
-Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 595ms
-Name: 北京卫视, URL: http://222.240.82.92:9901/tsfile/live/0122_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 592ms
-Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1124ms
-Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1409ms
-Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1150ms
-Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 529ms
-Name: 延边卫视, URL: http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8, Date: 04-25-2023, Resolution: None, Response Time: 1006ms
-Name: 延边卫视, URL: http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8, Date: None, Resolution: 720p, Response Time: 1264ms
-Name: 延边卫视, URL: http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8, Date: None, Resolution: None, Response Time: 1710ms
-Name: 香港卫视, URL: https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1841ms
-Name: 安多卫视, URL: http://stream.qhbtv.com/adws/sd/live.m3u8, Date: None, Resolution: None, Response Time: 1848ms
-Name: 农林卫视, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8, Date: 11-12-2023, Resolution: None, Response Time: 969ms
-Name: 湖北崇阳综合, URL: http://61.184.176.248:10500/live/live.m3u8, Date: 03-07-2024, Resolution: None, Response Time: 523ms
-Name: 武汉经济频道, URL: http://stream.appwuhan.com/4tzb/sd/live.m3u8, Date: None, Resolution: 360p, Response Time: 1663ms
-Name: 武汉文体频道, URL: http://stream.appwuhan.com/5tzb/sd/live.m3u8, Date: None, Resolution: 480p, Response Time: 936ms
-Name: 武汉外语频道, URL: http://stream.appwuhan.com/6tzb/sd/live.m3u8, Date: None, Resolution: 576p, Response Time: 1127ms
-Name: 开平综合, URL: http://php.jdshipin.com:8880/chudian.php?id=kpzh, Date: 03-27-2024, Resolution: None, Response Time: 3344ms
-Name: 赣州新闻, URL: http://wb.jxgztv.com/live/gztv1.flv, Date: 05-22-2024, Resolution: None, Response Time: 1699ms
-Name: 赣州公共, URL: http://wb.jxgztv.com/live/gztv2.flv, Date: 05-22-2024, Resolution: None, Response Time: 985ms
-Name: 赣州教育, URL: http://wb.jxgztv.com/live/gztv3.flv, Date: 05-22-2024, Resolution: None, Response Time: 1086ms
-Name: 春晚1985, URL: http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4, Date: 05-18-2024, Resolution: 768x576, Response Time: 844ms
-Name: 春晚1986, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8, Date: 05-12-2024, Resolution: 768x576, Response Time: 91ms
-Name: 春晚1987, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8, Date: 05-12-2024, Resolution: 640x480, Response Time: 88ms
-Name: 春晚1989, URL: http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4, Date: 05-29-2024, Resolution: 640x480, Response Time: 133ms
-Name: 春晚2000, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 14ms
-Name: 春晚2005, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 15ms
-Name: 春晚2007, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 311ms
-Name: 春晚2008, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 91ms
-Name: 春晚2009, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8, Date: 05-11-2024, Resolution: 786x576, Response Time: 20ms
-Name: 春晚2020, URL: http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4, Date: 11-27-2023, Resolution: None, Response Time: 292ms
-Name: 春晚2020, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 635ms
-Name: 春晚1988, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8, Date: 05-12-2024, Resolution: 640x480, Response Time: 188ms
-Name: 春晚1992, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 93ms
-Name: 春晚1994, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8, Date: 11-30-2023, Resolution: None, Response Time: 118ms
-Name: 春晚1995, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 96ms
-Name: 春晚2001, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8, Date: 05-30-2024, Resolution: 982x720, Response Time: 167ms
-Name: 春晚2014, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 521ms
-Name: 春晚2021, URL: http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4, Date: 04-16-2024, Resolution: 1280x720, Response Time: 248ms
-Name: 春晚2022, URL: http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4, Date: 02-08-2024, Resolution: None, Response Time: 505ms
+Name: CCTV-1综合, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 709ms
+Name: CCTV-1综合, URL: http://1.195.111.251:11190/tsfile/live/0001_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 1078ms
+Name: CCTV-5体育, URL: http://222.240.82.92:9901/tsfile/live/0005_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 589ms
+Name: CCTV-6电影, URL: http://222.240.82.92:9901/tsfile/live/0006_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 1573ms
+Name: CCTV-9纪录, URL: http://222.240.82.92:9901/tsfile/live/0009_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 750ms
+Name: CCTV-12社会与法, URL: http://1.195.111.251:11190/tsfile/live/0012_1.m3u8, Date: 05-26-2023, Resolution: None, Response Time: 498ms
+Name: CCTV-13新闻, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: CCTV-14少儿, URL: http://222.240.82.92:9901/tsfile/live/0014_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 907ms
+Name: CGTN, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 705ms
+Name: 中国天气, URL: http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8, Date: None, Resolution: None, Response Time: 1006ms
+Name: CGTN俄语, URL: http://liveru.cgtn.com/1000r/prog_index.m3u8, Date: 08-15-2023, Resolution: None, Response Time: 732ms
+Name: CGTN俄语, URL: https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd, Date: 04-03-2023, Resolution: None, Response Time: 739ms
+Name: CGTN俄语, URL: https://liveru.cgtn.com/1000r/prog_index.m3u8, Date: None, Resolution: None, Response Time: 902ms
+Name: CGTN西语, URL: https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8, Date: 03-21-2023, Resolution: None, Response Time: 569ms
+Name: CGTN西语, URL: http://livees.cgtn.com/1000e/prog_index.m3u8, Date: 08-15-2023, Resolution: None, Response Time: 895ms
+Name: CGTN西语, URL: https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd, Date: 04-03-2023, Resolution: None, Response Time: 903ms
+Name: CGTN西语, URL: https://livees.cgtn.com/1000e/prog_index.m3u8, Date: None, Resolution: None, Response Time: 1065ms
+Name: CGTN阿语, URL: http://livear.cgtn.com/1000a/prog_index.m3u8, Date: 08-15-2023, Resolution: None, Response Time: 766ms
+Name: CGTN阿语, URL: https://livear.cgtn.com/1000a/prog_index.m3u8, Date: None, Resolution: None, Response Time: 780ms
+Name: 湖南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 浙江卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 江苏卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 江苏卫视, URL: http://222.240.82.92:9901/tsfile/live/0127_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 751ms
+Name: 北京卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 707ms
+Name: 北京卫视, URL: http://222.240.82.92:9901/tsfile/live/0122_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1593ms
+Name: 东方卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 安徽卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 安徽卫视, URL: http://115.149.139.141:10001/tsfile/live/1025_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1094ms
+Name: 广东卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 710ms
+Name: 深圳卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 辽宁卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 海南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 707ms
+Name: 海南卫视, URL: https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000, Date: 03-21-2023, Resolution: None, Response Time: 1359ms
+Name: 山东卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 天津卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 709ms
+Name: 重庆卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 东南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 甘肃卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 甘肃卫视, URL: http://222.240.82.92:9901/tsfile/live/0141_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 697ms
+Name: 广西卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 贵州卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 河北卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 712ms
+Name: 黑龙江卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 河南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 湖北卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 湖北卫视, URL: http://115.149.139.141:10001/tsfile/live/1027_1.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1098ms
+Name: 江西卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 707ms
+Name: 吉林卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 内蒙古卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 707ms
+Name: 宁夏卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 707ms
+Name: 山西卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 707ms
+Name: 陕西卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 706ms
+Name: 四川卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 707ms
+Name: 新疆卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 704ms
+Name: 云南卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 青海卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 金鹰卡通, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 哈哈炫动, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 优漫卡通, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 720ms
+Name: 大湾区卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 709ms
+Name: 嘉佳卡通, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 延边卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 延边卫视, URL: http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8, Date: 04-25-2023, Resolution: None, Response Time: 1076ms
+Name: 延边卫视, URL: http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8, Date: None, Resolution: 720p, Response Time: 5687ms
+Name: 香港卫视, URL: https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8, Date: 03-20-2023, Resolution: None, Response Time: 1877ms
+Name: 厦门卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 西藏卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 三沙卫视, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 安多卫视, URL: http://stream.qhbtv.com/adws/sd/live.m3u8, Date: None, Resolution: None, Response Time: 1931ms
+Name: 农林卫视, URL: http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8, Date: 11-12-2023, Resolution: None, Response Time: 952ms
+Name: 湖北崇阳综合, URL: http://61.184.176.248:10500/live/live.m3u8, Date: 03-07-2024, Resolution: None, Response Time: 490ms
+Name: 武汉经济频道, URL: http://stream.appwuhan.com/4tzb/sd/live.m3u8, Date: None, Resolution: 360p, Response Time: 2423ms
+Name: 武汉文体频道, URL: http://stream.appwuhan.com/5tzb/sd/live.m3u8, Date: None, Resolution: 480p, Response Time: 1043ms
+Name: 武汉外语频道, URL: http://stream.appwuhan.com/6tzb/sd/live.m3u8, Date: None, Resolution: 576p, Response Time: 1068ms
+Name: 广东珠江, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 721ms
+Name: 开平综合, URL: http://php.jdshipin.com:8880/chudian.php?id=kpzh, Date: 03-27-2024, Resolution: None, Response Time: 2800ms
+Name: 广东体育, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 广东新闻, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 710ms
+Name: 赣州新闻, URL: http://wb.jxgztv.com/live/gztv1.flv, Date: 05-22-2024, Resolution: None, Response Time: 2008ms
+Name: 赣州公共, URL: http://wb.jxgztv.com/live/gztv2.flv, Date: 05-22-2024, Resolution: None, Response Time: 915ms
+Name: 赣州教育, URL: http://wb.jxgztv.com/live/gztv3.flv, Date: 05-22-2024, Resolution: None, Response Time: 831ms
+Name: 翡翠台, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 明珠台, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 709ms
+Name: 凤凰中文, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 凤凰资讯, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 凤凰香港, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: TVBS亚洲, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 707ms
+Name: TVBS新闻, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: TVBS欢乐, URL: http://210.210.155.37/uq2663/h/h157/index2.m3u8, Date: 04-23-2024, Resolution: 1024x576 • Faster, Response Time: 708ms
+Name: 春晚1985, URL: http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4, Date: 05-18-2024, Resolution: 768x576, Response Time: 968ms
+Name: 春晚1986, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8, Date: 05-12-2024, Resolution: 768x576, Response Time: 286ms
+Name: 春晚1987, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8, Date: 05-12-2024, Resolution: 640x480, Response Time: 288ms
+Name: 春晚1989, URL: http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4, Date: 05-29-2024, Resolution: 640x480, Response Time: 318ms
+Name: 春晚2000, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 287ms
+Name: 春晚2005, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 290ms
+Name: 春晚2007, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 291ms
+Name: 春晚2008, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 78ms
+Name: 春晚2009, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8, Date: 05-11-2024, Resolution: 786x576, Response Time: 408ms
+Name: 春晚2020, URL: http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4, Date: 11-27-2023, Resolution: None, Response Time: 96ms
+Name: 春晚2020, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 136ms
+Name: 春晚1988, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8, Date: 05-12-2024, Resolution: 640x480, Response Time: 298ms
+Name: 春晚1992, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 191ms
+Name: 春晚1994, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8, Date: 11-30-2023, Resolution: None, Response Time: 90ms
+Name: 春晚1995, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 139ms
+Name: 春晚2001, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8, Date: 05-30-2024, Resolution: 982x720, Response Time: 128ms
+Name: 春晚2014, URL: https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8, Date: 11-27-2023, Resolution: None, Response Time: 660ms
+Name: 春晚2021, URL: http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4, Date: 04-16-2024, Resolution: 1280x720, Response Time: 123ms
+Name: 春晚2022, URL: http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4, Date: 02-08-2024, Resolution: None, Response Time: 111ms
