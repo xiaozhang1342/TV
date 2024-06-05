@@ -1,8 +1,8 @@
 央视,#genre#
 CCTV-1综合,http://219.135.208.218:8083/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2财经,http://219.135.208.218:8083/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3综艺,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 CCTV-3综艺,http://219.135.208.218:8083/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3综艺,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 CCTV-4中文国际,http://219.135.208.218:8083/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5体育,http://219.135.208.218:8083/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+体育赛事,http://219.135.208.218:8083/tsfile/live/0016_2.m3u8?key=txiptv&playlive=1&authid=0
@@ -29,21 +29,16 @@ CGTN,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221225822/index.m3
 CGTN,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226980/index.m3u8
 CCTV-电视指南,http://218.17.216.102:9901/tsfile/live/1064_1.m3u8
 CCTV-电视指南,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
-中国天气,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001102/index.m3u8
-中国天气,http://112.25.48.68/live/program/live/zgqx/1300000/mnf.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-中国天气,http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221227210/index.m3u8
-中国天气,http://fjbciptv.live.bestvcdn.com.cn/live/program/live/zgqx/1300000/mnf.m3u8
-中国天气,http://113.117.74.28:8081/hls/33/index.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 地方卫视,#genre#
 湖南卫视,http://219.135.208.218:8083/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -122,6 +117,8 @@ CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 嘉佳卡通,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8
 嘉佳卡通,http://ct.whosayssowhat.top:4022/udp/239.77.0.179:5146
 延边卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 黄河卫视,http://61.134.231.42:9999/tsfile/live/1003_1.m3u8
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 厦门卫视,http://112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8
@@ -169,8 +166,8 @@ CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 武汉科技生活频道,http://stream.appwuhan.com/3tzb/sd/live.m3u8
 武汉经济频道,http://stream.appwuhan.com/4tzb/sd/live.m3u8
 武汉文体频道,http://stream.appwuhan.com/5tzb/sd/live.m3u8
-武汉外语频道,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 武汉外语频道,http://stream.appwuhan.com/5tzb/sd/live.m3u8
+武汉外语频道,http://stream.appwuhan.com/6tzb/sd/live.m3u8
 武汉少儿频道,http://stream.appwuhan.com/7tzb/sd/live.m3u8
 武汉教育电视台,http://stream.appwuhan.com/jyzb/sd/live.m3u8
 
@@ -230,8 +227,8 @@ CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 爱尔达体育,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 ELEVEN体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
 ELEVEN体育,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23
-明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河台,http://113.117.74.32:8081/hls/135/index.m3u8
 星河台,http://120.79.160.134:8066/HK/xh/hls.m3u8
 星河台,http://223.71.206.22:30080/HK/xh/hls.m3u8
