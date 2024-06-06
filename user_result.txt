@@ -31,12 +31,12 @@ CCTV-电视指南,http://218.17.216.102:9901/tsfile/live/1064_1.m3u8
 CCTV-电视指南,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514003.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
-CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
-CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
+CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
 CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
@@ -117,8 +117,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 嘉佳卡通,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8
 嘉佳卡通,http://ct.whosayssowhat.top:4022/udp/239.77.0.179:5146
 延边卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 黄河卫视,http://61.134.231.42:9999/tsfile/live/1003_1.m3u8
 香港卫视,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 厦门卫视,http://112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8
@@ -173,6 +173,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 广东频道,#genre#
 广东珠江,http://219.135.208.218:8083/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+开平综合,http://ci.emdoor.tech:8080/touchtv.php?pk=2405
+开平综合,https://skype.serv00.net/itouch.php?id=kpzh
 开平综合,http://php.jdshipin.com:8880/chudian.php?id=kpzh
 江门综合,http://tidelive.jmtv.cn/lsdream/4x3T0dO/993/r534500.m3u8
 江门综合,http://ct.whosayssowhat.top:4022/udp/239.77.0.201:5146
