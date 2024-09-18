@@ -1,22 +1,20 @@
-Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2e68118650>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/7423c008190d3af4e4e2417d2ca95259
-Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2e68113f90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/7423c008190d3af4e4e2417d2ca95259
-Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f2e681db2d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/7423c008190d3af4e4e2417d2ca95259
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 137ms
-Name: CCTV-17农村农业, URL: http://218.13.170.98:9901/tsfile/live/0016_1.m3u8, Date: None, Resolution: None, Response Time: 511ms
-Name: 湖北公共新闻, URL: http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 496ms
-Name: 湖北崇阳综合, URL: http://61.184.176.248:10500/live/live.m3u8, Date: None, Resolution: None, Response Time: 510ms
-Name: 湖北江夏新闻综合, URL: http://59.175.226.142:280/gb28181/xwzh.m3u8, Date: None, Resolution: None, Response Time: 511ms
-Name: CGTN俄语, URL: http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8, Date: None, Resolution: None, Response Time: 4560ms
-Name: 香港卫视, URL: http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8, Date: None, Resolution: None, Response Time: 5035ms
-Name: 内蒙古卫视, URL: http://124.94.193.136:9902/tsfile/live/0109_1.m3u8, Date: None, Resolution: None, Response Time: 614ms
-Name: 吉林卫视, URL: http://124.94.193.136:9902/tsfile/live/0116_1.m3u8, Date: None, Resolution: None, Response Time: 602ms
-Name: 厦门卫视, URL: http://124.94.193.136:9902/tsfile/live/0129_1.m3u8, Date: None, Resolution: None, Response Time: 540ms
-Name: 延边卫视, URL: http://124.94.193.136:9902/tsfile/live/1011_1.m3u8, Date: None, Resolution: None, Response Time: 614ms
-Name: 青海卫视, URL: http://124.128.73.58:9901/tsfile/live/0140_1.m3u8, Date: None, Resolution: None, Response Time: 579ms
-Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 523ms
-Name: 河南卫视, URL: http://124.94.193.136:9902/tsfile/live/0139_1.m3u8, Date: None, Resolution: None, Response Time: 559ms
-Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 528ms
-Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 1547ms
-Name: 广东卫视, URL: http://124.94.193.136:9902/tsfile/live/0125_1.m3u8, Date: None, Resolution: None, Response Time: 531ms
-Name: 北京卫视, URL: http://124.128.73.58:9901/tsfile/live/0122_1.m3u8, Date: None, Resolution: None, Response Time: 569ms
-Name: CCTV-6电影, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 515ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 24ms
+Name: CCTV-17农村农业, URL: http://218.13.170.98:9901/tsfile/live/0016_1.m3u8, Date: None, Resolution: None, Response Time: 375ms
+Name: 湖北公共新闻, URL: http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 401ms
+Name: 湖北崇阳综合, URL: http://61.184.176.248:10500/live/live.m3u8, Date: None, Resolution: None, Response Time: 417ms
+Name: 湖北江夏新闻综合, URL: http://59.175.226.142:280/gb28181/xwzh.m3u8, Date: None, Resolution: None, Response Time: 1416ms
+Name: CGTN俄语, URL: http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8, Date: None, Resolution: None, Response Time: 3615ms
+Name: 香港卫视, URL: http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8, Date: None, Resolution: None, Response Time: 4000ms
+Name: 内蒙古卫视, URL: http://124.94.193.136:9902/tsfile/live/0109_1.m3u8, Date: None, Resolution: None, Response Time: 503ms
+Name: 吉林卫视, URL: http://124.94.193.136:9902/tsfile/live/0116_1.m3u8, Date: None, Resolution: None, Response Time: 443ms
+Name: 河南卫视, URL: http://124.94.193.136:9902/tsfile/live/0139_1.m3u8, Date: None, Resolution: None, Response Time: 441ms
+Name: 厦门卫视, URL: http://124.94.193.136:9902/tsfile/live/0129_1.m3u8, Date: None, Resolution: None, Response Time: 498ms
+Name: 延边卫视, URL: http://124.94.193.136:9902/tsfile/live/1011_1.m3u8, Date: None, Resolution: None, Response Time: 444ms
+Name: 青海卫视, URL: http://124.128.73.58:9901/tsfile/live/0140_1.m3u8, Date: None, Resolution: None, Response Time: 421ms
+Name: 陕西卫视, URL: http://202.100.46.58:9901/tsfile/live/1017_1.m3u8, Date: None, Resolution: None, Response Time: 418ms
+Name: 贵州卫视, URL: http://202.100.46.58:9901/tsfile/live/1034_1.m3u8, Date: None, Resolution: None, Response Time: 440ms
+Name: 甘肃卫视, URL: http://202.100.46.58:9901/tsfile/live/1035_1.m3u8, Date: None, Resolution: None, Response Time: 422ms
+Name: 中国天气, URL: http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8, Date: None, Resolution: None, Response Time: 4151ms
+Name: 广东卫视, URL: http://124.94.193.136:9902/tsfile/live/0125_1.m3u8, Date: None, Resolution: None, Response Time: 448ms
+Name: 北京卫视, URL: http://124.128.73.58:9901/tsfile/live/0122_1.m3u8, Date: None, Resolution: None, Response Time: 462ms
+Name: CCTV-6电影, URL: http://202.100.46.58:9901/tsfile/live/1005_1.m3u8, Date: None, Resolution: None, Response Time: 428ms
