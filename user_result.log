@@ -1,10 +1,7 @@
-Name: 湖北公共新闻, URL: http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 296ms
-Name: 湖北江夏新闻综合, URL: http://59.175.226.142:280/gb28181/xwzh.m3u8, Date: None, Resolution: None, Response Time: 299ms
-Name: 湖北崇阳综合, URL: http://61.184.176.248:10500/live/live.m3u8, Date: None, Resolution: None, Response Time: 305ms
-Name: CCTV-17农村农业, URL: http://218.13.170.98:9901/tsfile/live/0016_1.m3u8, Date: None, Resolution: None, Response Time: 356ms
-Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 1046ms
-Name: CGTN俄语, URL: http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8, Date: None, Resolution: None, Response Time: 4610ms
-Name: CGTN阿语, URL: https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8, Date: None, Resolution: None, Response Time: 4629ms
-Name: CGTN西语, URL: https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8, Date: None, Resolution: None, Response Time: 4630ms
-Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 746ms
-Name: CCTV-11戏曲, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 681ms
+Name: TVBS亚洲, URL: http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8, Date: None, Resolution: None, Response Time: 127ms
+Name: CCTV-17农村农业, URL: http://218.13.170.98:9901/tsfile/live/0016_1.m3u8, Date: None, Resolution: None, Response Time: 495ms
+Name: 湖北公共新闻, URL: http://59.173.243.210:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0, Date: None, Resolution: None, Response Time: 515ms
+Name: 湖北江夏新闻综合, URL: http://59.175.226.142:280/gb28181/xwzh.m3u8, Date: None, Resolution: None, Response Time: 514ms
+Name: 湖北崇阳综合, URL: http://61.184.176.248:10500/live/live.m3u8, Date: None, Resolution: None, Response Time: 522ms
+Name: 甘肃卫视, URL: http://111.61.236.247:9081/hls/54/index.m3u8, Date: None, Resolution: None, Response Time: 669ms
+Name: CCTV-11戏曲, URL: http://111.61.236.247:9081/hls/11/index.m3u8, Date: None, Resolution: None, Response Time: 675ms
